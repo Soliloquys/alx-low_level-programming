@@ -1,3 +1,5 @@
+6-print_numberz.c
+
 #include <stdio.h>
 
 /**
