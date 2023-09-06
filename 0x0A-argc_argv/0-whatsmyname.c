@@ -1,5 +1,8 @@
 #include <stdio.h>
-/* Program to print its name
+#include "main.h"
+
+/**
+ * Program to print its name
  *
  * Reurn Always 0
  */
