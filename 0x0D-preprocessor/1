@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+/*
+ * Description:  Program prints the name of the current file
+ *
+ * main: returns the name
+ *
+ * Return: Always 0
+ */
+int main(void)
+{
+	printf("%s\n", __FILE__);
+	return (0);
+}
