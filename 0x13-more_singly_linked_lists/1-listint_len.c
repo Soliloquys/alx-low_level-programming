@@ -2,8 +2,7 @@
 #include "lists.h"
 
 /**
- * listint_len: Function to print element of a singly linked lisy
- *
+ * listint_len - Function to print element of a singly linked lisy
  * @h: pointer to a node in the list
  *
  * Return: the number of nodes
